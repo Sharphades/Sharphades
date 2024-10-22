@@ -1,4 +1,4 @@
-<h1 align="center">Hi i'm Sharphades Sharphades</h1>
+<h1 align="center">Hi i'm Sharphades</h1>
 <h3 align="center">A passionate developer from Philippines</h3>
 
 - 🔭 I’m currently working on **practicing my skills**
