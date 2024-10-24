@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=9C44F7&background=FF6FDF00&center=true&vCenter=true&width=435&lines=Hi+I'm+Sharphades)](https://git.io/typing-svg)
+<div style="text-align: center;"></div>
 <h3 align="center">A passionate developer from Philippines</h3>
 
 - 🔭 I’m currently working on **practicing my skills**
